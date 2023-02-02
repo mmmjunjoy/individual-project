@@ -1,8 +1,9 @@
-<div align=center> <h2> minimal solo project </h2></div>
+<div align=center> <h2> minimal solo project </h2></div
+
+<br>
 
 
-
-<div align = center><img width="300" alt="image" src="https://user-images.githubusercontent.com/121990539/216238146-db3066b6-3bea-4a13-90f2-bb4d47b39ac3.png">
+<div align = center><img width="350" alt="image" src="https://user-images.githubusercontent.com/121990539/216238146-db3066b6-3bea-4a13-90f2-bb4d47b39ac3.png">
  </div>
 
 
